@@ -4,5 +4,5 @@ This is the central organization for **CodeOps Studio** a free and open-source c
 
 Our mission: **Code anywhere, anytime.**
 
-- **Main Repository:** [github.com/euptron/CodeOps-Studio](https://github.com/euptron/CodeOps-Studio)
-- **Website:** [codeops-studio.github.io](https://codeops-studio.github.io/codeopsstudio.github.io/)
+- Main Repository: [github.com/euptron/CodeOps-Studio](https://github.com/euptron/CodeOps-Studio)
+- Website: [codeops-studio.github.io](https://codeops-studio.github.io/codeopsstudio.github.io/)
